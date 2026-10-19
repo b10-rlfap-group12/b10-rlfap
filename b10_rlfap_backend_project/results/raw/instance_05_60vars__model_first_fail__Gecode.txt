@@ -1,0 +1,29 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=180
+%%%mzn-stat: flatIntVars=594
+%%%mzn-stat: flatIntConstraints=720
+%%%mzn-stat: evaluatedReifiedConstraints=180
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=0.202331
+%%%mzn-stat-end
+objective=4;
+frequency=[1, 1, 7, 1, 8, 3, 7, 1, 1, 6, 12, 1, 5, 1, 9, 1, 1, 2, 2, 10, 5, 1, 4, 14, 15, 7, 1, 1, 7, 10, 3, 11, 3, 5, 13, 7, 5, 8, 4, 5, 12, 11, 8, 7, 6, 1, 9, 10, 1, 4, 6, 4, 10, 7, 5, 4, 3, 2, 2, 7];
+violated=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+----------
+==========
+%%%mzn-stat: initTime=0.00827199
+%%%mzn-stat: solveTime=0.0850067
+%%%mzn-stat: solutions=631
+%%%mzn-stat: variables=774
+%%%mzn-stat: propagators=717
+%%%mzn-stat: propagations=441326
+%%%mzn-stat: nodes=12685
+%%%mzn-stat: failures=2702
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=70
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end
+
+--- stderr ---
