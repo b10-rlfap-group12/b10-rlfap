@@ -1,5 +1,8 @@
-<p align="center">
-  <img src="assets/B10_banner_animated.svg" alt="B10 · RLFAP · MiniZinc banner" width="100%">
+V<p align="center">
+  <picture>
+    <source srcset="assets/B10_banner_animated.svg" type="image/svg+xml">
+    <img src="assets/B10_banner_preview.png" alt="B10 · RLFAP · MiniZinc banner" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">B10 · Radio Link Frequency Assignment (RLFAP)</h1>
