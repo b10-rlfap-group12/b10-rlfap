@@ -1,4 +1,4 @@
-V<p align="center">
+<p align="center">
   <picture>
     <source srcset="assets/B10_banner_animated.svg" type="image/svg+xml">
     <img src="assets/B10_banner_preview.png" alt="B10 · RLFAP · MiniZinc banner" width="100%">
