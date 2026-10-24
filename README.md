@@ -1,7 +1,4 @@
-```markdown
-<p align="center">
-  <img src="assets/rlfap-banner.svg" alt="B10 RLFAP MiniZinc animated project banner" width="100%">
-</p>
+
 
 <h1 align="center">B10 · RLFAP · MiniZinc</h1>
 
@@ -11,8 +8,8 @@
 
 <p align="center">
   <a href="#-overview"><img src="https://img.shields.io/badge/Project-RLFAP-0EA5A8?style=flat-square" alt="Project"></a>
-  <a href="#-quick-start-linux"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-  <a href="#-quick-start-linux"><img src="https://img.shields.io/badge/MiniZinc-2.9.3-0B6E99?style=flat-square" alt="MiniZinc"></a>
+  <a href="#-setup"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#-setup"><img src="https://img.shields.io/badge/MiniZinc-2.9.3-0B6E99?style=flat-square" alt="MiniZinc"></a>
   <img src="https://img.shields.io/badge/Gecode-6.3.0-2E7D32?style=flat-square" alt="Gecode">
   <img src="https://img.shields.io/badge/HiGHS-1.15.1-7B1FA2?style=flat-square" alt="HiGHS">
   <img src="https://img.shields.io/badge/Verified-30%2F30-brightgreen?style=flat-square" alt="Verified runs">
